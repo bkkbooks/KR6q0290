@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0290/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 普菴印肅禪師語錄
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X69/X69n1356.xml
+    old_id: X69n1356
+hash: sha256:7e23c46c40e3c16295649692a240b01329d84b0815f1e20b23a60ca2e5d6492a

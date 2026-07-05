@@ -22,13 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0290_000.yaml, hash: 'sha256:7e23c46c40e3c16295649692a240b01329d84b0815f1e20b23a60ca2e5d6492a'}
-  - {seq: 1, filename: KR6q0290_001.yaml, hash: 'sha256:152d857ef3736a9d41db5ba960c29b780a2b7339a1810afb7caa6253b41a95a3'}
-  - {seq: 2, filename: KR6q0290_002.yaml, hash: 'sha256:4ab522e79735826deaa87105d4849d42db9fdad0aabfffde59170d653ada11c8'}
-  - {seq: 3, filename: KR6q0290_003.yaml, hash: 'sha256:107ad038d3252af8013bb504c141f96785997fcf332b679f63455449c1d87a07'}
+  - {seq: 1, filename: KR6q0290_001.yaml, hash: 'sha256:82ec34e5fde38f14e6a5ea6f43f8d84b2c76acb98e31dc333cb0b48155135186'}
+  - {seq: 2, filename: KR6q0290_002.yaml, hash: 'sha256:7839c9b2bf9b3b270325cbf05e9218e0f9d5ac2bb15a6cc4ef5cdced0f1dcf39'}
+  - {seq: 3, filename: KR6q0290_003.yaml, hash: 'sha256:a114e24c9ffb80a8907715f2b837815fc2eecbc615f68a20d06a0b73aa926991'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0290_001.markers.yaml, hash: 'sha256:94e0e045ca505a7bdc7eaf4370193ce8a836d58eb2d771e9a88f555936e51b03'}
-  - {seq: 2, role: markers, filename: assets/KR6q0290_002.markers.yaml, hash: 'sha256:753c5d9b93518149861a1fb3ed52370d8ac57d71c8ada644925055f505131ef8'}
-  - {seq: 3, role: markers, filename: assets/KR6q0290_003.markers.yaml, hash: 'sha256:cc3c3a85d5bc35a16197f2f9ab72c59b032b097afa492d3299d6e8013b2175bb'}
+  - {seq: 0, role: markers, filename: assets/KR6q0290_000.markers.yaml, hash: 'sha256:fd919837b42015869fc0c41530b0e81888cc0fad38307dee824d2fc8800ed322'}
+  - {seq: 1, role: markers, filename: assets/KR6q0290_001.markers.yaml, hash: 'sha256:f1fb68590dd788b51efafa21884a332784df63de1c8779c421357c0f4d9ac5b4'}
+  - {seq: 2, role: markers, filename: assets/KR6q0290_002.markers.yaml, hash: 'sha256:ec413acb4c5745bb9a233aea6393648ecaae5512b7db105395a78ebe2f88438f'}
+  - {seq: 3, role: markers, filename: assets/KR6q0290_003.markers.yaml, hash: 'sha256:deab625b2c9beffcc8bb95734f1b14fd38152b6f0c73da9b03186dbb4a242379'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2730,7 +2731,4 @@ table_of_contents:
   label: 御製普菴至善弘仁圓通智慧寂感妙應慈濟真覺昭貺慧慶護國宣教大德菩薩讚
   type: mulu
   level: 1
-hash: sha256:bf7cb215710d90fbe6086b67397280561a3904aa98c6d0ac1e5e095fa7a81c7d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:bb4c81e0e80659acec7df65379376591c9dd296903d54f32e7dce5d4fa82488b

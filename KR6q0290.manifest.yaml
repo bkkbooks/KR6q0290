@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0290/v1
 canonical_location: https://kanripo.org/bkk/KR6q0290/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 普菴印肅禪師語錄
   identifiers:
@@ -22,14 +22,14 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0290_000.yaml, hash: 'sha256:7e23c46c40e3c16295649692a240b01329d84b0815f1e20b23a60ca2e5d6492a'}
-  - {seq: 1, filename: KR6q0290_001.yaml, hash: 'sha256:82ec34e5fde38f14e6a5ea6f43f8d84b2c76acb98e31dc333cb0b48155135186'}
-  - {seq: 2, filename: KR6q0290_002.yaml, hash: 'sha256:7839c9b2bf9b3b270325cbf05e9218e0f9d5ac2bb15a6cc4ef5cdced0f1dcf39'}
-  - {seq: 3, filename: KR6q0290_003.yaml, hash: 'sha256:a114e24c9ffb80a8907715f2b837815fc2eecbc615f68a20d06a0b73aa926991'}
+  - {seq: 1, filename: KR6q0290_001.yaml, hash: 'sha256:6ab36bbd392d4b8eda245ec5fdb399aaf3090e36b367ad2eb7f2569fa8561a0c'}
+  - {seq: 2, filename: KR6q0290_002.yaml, hash: 'sha256:d64e08d1c550c6107fdcbceb53af66deb3c678720d072eafcff427b583622a0c'}
+  - {seq: 3, filename: KR6q0290_003.yaml, hash: 'sha256:29824d2828a856fd0fa546c4c1614fd8984875a134b8df13049811e165a1f147'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0290_000.markers.yaml, hash: 'sha256:fd919837b42015869fc0c41530b0e81888cc0fad38307dee824d2fc8800ed322'}
-  - {seq: 1, role: markers, filename: assets/KR6q0290_001.markers.yaml, hash: 'sha256:f1fb68590dd788b51efafa21884a332784df63de1c8779c421357c0f4d9ac5b4'}
-  - {seq: 2, role: markers, filename: assets/KR6q0290_002.markers.yaml, hash: 'sha256:ec413acb4c5745bb9a233aea6393648ecaae5512b7db105395a78ebe2f88438f'}
-  - {seq: 3, role: markers, filename: assets/KR6q0290_003.markers.yaml, hash: 'sha256:deab625b2c9beffcc8bb95734f1b14fd38152b6f0c73da9b03186dbb4a242379'}
+  - {seq: 1, role: markers, filename: assets/KR6q0290_001.markers.yaml, hash: 'sha256:ed1e695fe97ae966860d8972fdc16126fef657ca655f3ab2f65831fec0d099b5'}
+  - {seq: 2, role: markers, filename: assets/KR6q0290_002.markers.yaml, hash: 'sha256:aaa3f98d9c4d33356ca2d02e66d40607c345f2d530e9c4940f6d3aeddb9250aa'}
+  - {seq: 3, role: markers, filename: assets/KR6q0290_003.markers.yaml, hash: 'sha256:f7f572496ddc2de8c5a2a839b9d6efd15d31087ca2fb7c48dc7fb30ed82b8510'}
 table_of_contents:
 - ref:
     seq: 1
@@ -2731,4 +2731,7 @@ table_of_contents:
   label: 御製普菴至善弘仁圓通智慧寂感妙應慈濟真覺昭貺慧慶護國宣教大德菩薩讚
   type: mulu
   level: 1
-hash: sha256:bb4c81e0e80659acec7df65379376591c9dd296903d54f32e7dce5d4fa82488b
+hash: sha256:921b263a2561211cc27f9e0dfee59bfff497438e2f4a99b3e3ba26a2bd1bef40
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
